@@ -2,9 +2,9 @@
 Python implementation of convolutional SNN. 
 
 ### Requirement
-Python 3.5
-Pytorch 0.4.0
-MNIST dataset
+- Python 3.5
+- Pytorch 0.4.0
+- MNIST dataset
 
 ### Results
 After 100 epochs, it can obtain ~ 99.4% acc on MNIST.
