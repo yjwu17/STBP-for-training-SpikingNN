@@ -1,5 +1,5 @@
-# BP-for-SpikingNN
-Spatio-temporal BP for spiking neural networks.
+# Spatio-temporal BP for spiking neural networks.
+Python implementation of SNN. 
 
 Please download MNIST dataset and run the file main.py. After 100 epochs, it can obtain ~ 99.4% acc on MNIST.
 
