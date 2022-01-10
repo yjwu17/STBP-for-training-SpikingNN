@@ -1,10 +1,12 @@
 # Spatio-temporal BP for spiking neural networks.
-Python implementation of convolutional SNN. 
+Matlab version of convolutional SNN on MNSIT. 
+Please find another branch for Pytorch version on CIFAR10 and N-MNIST (update later).
 
 ### Requirement
-- Python 3.5
-- Pytorch 0.4.0
+- Python 3.6
 - MNIST dataset
+- CIFAR10 dataset
+- N_MSNIT dataset
 
 ### Results
 After 100 epochs, it can obtain ~ 99.4% acc on MNIST.
